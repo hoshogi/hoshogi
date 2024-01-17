@@ -33,7 +33,7 @@
   <li>CJ올리브영 백엔드 개발 인턴 <sub>(2023.05 ~ 2023.06)</sub></li>
   <li>홍익대학교 컴퓨터공학과 <sub>(2016.03 ~ 2023.02)</sub></li>
   <br>
-  <li><sub>이상형 월드컵 iOS 앱</sub><a href="https://apps.apple.com/kr/app/onlypickone/id6469682692"> OnlyPickOne</a> 백엔드 개발</li>
+  <li>이상형 월드컵 iOS 앱<a href="https://apps.apple.com/kr/app/onlypickone/id6469682692"> OnlyPickOne</a> 백엔드 개발</li>
 </div>
 
 --- 
