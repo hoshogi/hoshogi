@@ -19,6 +19,9 @@
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white" /> -->
   <!-- <br>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/>
@@ -27,6 +30,7 @@
 </p>
 
 ---
+
 ### 🧑🏻‍💻 Career
 
 <div align=left>
@@ -35,10 +39,11 @@
   <li>이상형 월드컵 iOS 앱<a href="https://apps.apple.com/kr/app/onlypickone/id6469682692"> OnlyPickOne</a> 백엔드 개발</li>
 </div>
 
---- 
+---
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoshogi&count_bg=%2379C83D&title_bg=%23555555&icon=evernote.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- --- 
+<!-- ---
 ### 📩 contact -->
