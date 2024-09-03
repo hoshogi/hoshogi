@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HoSeok%20Lee&fontSize=70&animation=twinkling&fontAlignY=40)
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HoSeok%20Lee&fontSize=70&animation=twinkling&fontAlignY=40) -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=hoshogi&fontSize=70&animation=twinkling&fontAlignY=40)
 ### 🛠 Tech Stack
 
 <p align=left>
