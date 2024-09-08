@@ -18,7 +18,9 @@
   <br>
   <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=amazons3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS Personalize-00A8E1?style=flat-square&logo=awspersonalize&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp
@@ -38,7 +40,7 @@
   <li>CJ올리브영 백엔드 개발 인턴 (2023.05 ~ 2023.06)</li>
   <li>홍익대학교 컴퓨터공학과 (2016.03 ~ 2023.02)</li>
   <li>이상형 월드컵 iOS 앱 <a href="https://apps.apple.com/kr/app/onlypickone/id6469682692">OnlyPickOne</a> 백엔드 개발</li>
-  <li>하이라이트 기반 스크랩 및 공유 플랫폼 <a href="https://chromewebstore.google.com/detail/getsbee/mkloamglbhkpbaefjpmfggbfbfobeima">getsBee</a> 팀장, 인프라, 백엔드 개발</li>
+  <li>하이라이트 기반 스크랩 및 공유 플랫폼 <a href="https://chromewebstore.google.com/detail/getsbee/mkloamglbhkpbaefjpmfggbfbfobeima">getsBee</a> 인프라, 백엔드 개발</li>
 </div>
 
 ---
