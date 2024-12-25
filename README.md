@@ -40,8 +40,10 @@
 <div align=left>
   <li>CJ올리브영 백엔드 개발 인턴 (2023.05 ~ 2023.06)</li>
   <li>홍익대학교 컴퓨터공학과 (2016.03 ~ 2023.02)</li>
+  <li>삼성 청년 SW 아카데미 (2024.01 ~ 2024.12)</li>
   <li>이상형 월드컵 iOS 앱 <a href="https://apps.apple.com/kr/app/onlypickone/id6469682692">OnlyPickOne</a> 백엔드 개발 (2023.09 ~ 2023.12)</li>
   <li>하이라이트 기반 스크랩 및 공유 플랫폼 <a href="https://chromewebstore.google.com/detail/getsbee/mkloamglbhkpbaefjpmfggbfbfobeima">getsBee</a> 인프라, 백엔드 개발 (2024.07 ~ 2024.08)</li>
+  <li>AI 기반 온라인 집필 플랫폼 <a href="https://letsowing.com">Owing</a> 프론트, 백엔드 개발 (2024.08 ~ 2024.11)</li>
 </div>
 
 ---
