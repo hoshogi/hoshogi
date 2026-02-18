@@ -56,9 +56,13 @@
 
 ---
 
-<br>
+### 🏅 Ceritificate
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoshogi&count_bg=%2379C83D&title_bg=%23555555&icon=evernote.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=left>
+  <li>정보처리기사 (2022.06.17)</li>
+  <li>SQLD (2025.06.27)</li>
+  <li>리눅스마스터 2급 (2026.01.02)</li>
+</div>
 
 <!-- ---
 ### 📩 contact -->
